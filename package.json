@@ -1,3 +1,4 @@
+
 {
   "name": "finance-tracker",
   "version": "0.1.0",
@@ -11,7 +12,7 @@
     "react-dom": "^19.2.4",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "https://Dixitraghuvanshi60.github.io/finance-tracker"
+    "homepage": "."
   },
   "scripts": {
     "start": "react-scripts start",
